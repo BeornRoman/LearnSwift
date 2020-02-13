@@ -1,3 +1,5 @@
 import UIKit
 
-let startingLocation = 100
+let name = "Hello My Name Is Roman Matveev!"
+
+print(name)
